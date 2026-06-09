@@ -7,10 +7,11 @@ I'm Hoang, a junior Electrical Engineering student at Georgia Tech.
 I am currently building a foundation in **digital VLSI** and **custom IC design**. Through **Cadence Virtuoso/Spectre**, I have been learning by implementing and simulating research-paper-inspired transistor-level memory circuits, including **6T SRAM-based configurable memory cells** that support SRAM, BCAM/TCAM-style search, and logic-in-memory operations.
 
 ## 🔬 Previous Work
-
+* Programmed the core game logic for **Frogger**, including player movement, reward mechanisms, and overall gameplay flow.
+* Programmed an STM32WL microcontroller for LoRa-based wireless transmission of bioreactor data
 * Set up and characterized galvanic cell experiments for an energy harvesting project
 * Worked on testing energy booster for energy harvesting applications
-* Programmed an STM32WL microcontroller for LoRa-based wireless transmission of bioreactor data
+
 
 ## 💡 Interests
 
@@ -18,7 +19,7 @@ I am interested in **biosensor IC applications** and hope to collaborate on proj
 
 ## 🛠️ Tools & Skills
 
-Cadence Virtuoso/Spectre · STM32WL · LoRa · Digital VLSI · Custom IC Design · Energy Harvesting · Biosensor ICs
+Cadence Virtuoso/Spectre · STM32WL · LoRa · Digital VLSI · Custom IC Design · Energy Harvesting · Biosensor ICs · C++ · Verilog
 
 ## 📫 How to Reach Me
 
