@@ -9,7 +9,7 @@ I am currently building a foundation in **digital VLSI** and **custom IC design*
 ## 🔬 Previous Work
 
 * Set up and characterized galvanic cell experiments for an energy harvesting project
-* Worked on an energy booster for energy harvesting applications
+* Worked on testing energy booster for energy harvesting applications
 * Programmed an STM32WL microcontroller for LoRa-based wireless transmission of bioreactor data
 
 ## 💡 Interests
