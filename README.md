@@ -4,13 +4,18 @@ I'm Hoang, a junior Electrical Engineering student at Georgia Tech.
 
 ## 🌱 Currently Learning
 
-I am currently building a foundation in **digital VLSI** and **custom IC design**. Through **Cadence Virtuoso/Spectre**, I have been learning by implementing and simulating research-paper-inspired transistor-level memory circuits, including **6T SRAM-based configurable memory cells** that support SRAM, BCAM/TCAM-style search, and logic-in-memory operations.
+I am currently building a foundation in **digital VLSI** and **custom IC design**. Through **Cadence Virtuoso/Spectre**, I have been learning by implementing and simulating research-paper-inspired transistor-level memory circuits.
+
+## 🚀 Featured Projects
+* [Digital VLSI Configurable Memory Cell](https://github.com/HoangYenTran01/Digital-VLSI-Circuit-Design-ENG-EC-571-)
+
+  Implemented and simulated 6T SRAM/BCAM/TCAM-style memory circuits that support SRAM, BCAM/TCAM-style search, and logic-in-memory operations using Cadence Virtuoso/Spectre.
 
 ## 🔬 Previous Work
 * Programmed the core game logic for **Frogger**, including player movement, reward mechanisms, and overall gameplay flow.
-* Programmed an STM32WL microcontroller for LoRa-based wireless transmission of bioreactor data
+* Programmed an STM32WL microcontroller for **LoRa-based** wireless transmission of bioreactor data
 * Set up and characterized galvanic cell experiments for an energy harvesting project
-* Worked on testing energy booster for energy harvesting applications
+* Worked on testing energy booster IC for energy harvesting applications
 
 
 ## 💡 Interests
