@@ -24,7 +24,7 @@ I am interested in **biosensor IC applications** and hope to collaborate on proj
 
 ## 🛠️ Tools & Skills
 
-Cadence Virtuoso/Spectre · STM32WL · LoRa · Digital VLSI · Custom IC Design · Energy Harvesting · Biosensor ICs · C++ · Verilog
+Cadence Virtuoso/Spectre · FPGA · Verilog · C++  · STM32WL · LoRa · Digital VLSI 
 
 ## 📫 How to Reach Me
 
