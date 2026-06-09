@@ -1,6 +1,13 @@
 ## Hi there 👋
 I'm Hoang, a Junior Electrical Engineering at Georgia Tech.
 
+### Currently Learning
+I am currently building a foundation in digital VLSI and custom IC design. 
+Through Cadence Virtuoso/Spectre, I have been learning how to design, simulate, and analyze transistor-level memory circuits, including 6T SRAM-based configurable memory cells that support SRAM, BCAM/TCAM-style search, and logic-in-memory operations.
+
+### Previous work
+I previously worked on setting up characterizing galvanic cell's experiment and energy booster for energy harvesting project.
+I also worked on programming STM32WL microprocessor to implement LoRa protocol in transmiting bioreactor's data.
 
 <!--
 **HoangYenTran01/HoangYenTran01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
