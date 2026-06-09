@@ -1,19 +1,29 @@
-## Hi there 👋
-I'm Hoang, a Junior Electrical Engineering at Georgia Tech.
+# Hi there 👋
 
-### Currently Learning 🌱
-I am currently building a foundation in digital VLSI and custom IC design. 
-Through Cadence Virtuoso/Spectre, I have been learning by implementing and simulating research-paper inspired transistor-level memory circuits, including 6T SRAM-based configurable memory cells that support SRAM, BCAM/TCAM-style search, and logic-in-memory operations.
+I'm Hoang, a junior Electrical Engineering student at Georgia Tech.
 
-### Previous work 
-I previously worked on setting up characterizing galvanic cell's experiment and energy booster for energy harvesting project.
-I also worked on programming STM32WL microprocessor to implement LoRa protocol in transmiting bioreactor's data.
+## 🌱 Currently Learning
 
-### Interest
-I am interested biosensor IC application and hope to collaborate on projects at the intersection of integrated circuit design, semiconductor devices, and biomedical sensing.
+I am currently building a foundation in **digital VLSI** and **custom IC design**. Through **Cadence Virtuoso/Spectre**, I have been learning by implementing and simulating research-paper-inspired transistor-level memory circuits, including **6T SRAM-based configurable memory cells** that support SRAM, BCAM/TCAM-style search, and logic-in-memory operations.
 
-###📫 How to reach me:
-Mail: tr.h.yenwendy@gmail.com
+## 🔬 Previous Work
+
+* Set up and characterized galvanic cell experiments for an energy harvesting project
+* Worked on an energy booster for energy harvesting applications
+* Programmed an STM32WL microcontroller for LoRa-based wireless transmission of bioreactor data
+
+## 💡 Interests
+
+I am interested in **biosensor IC applications** and hope to collaborate on projects at the intersection of integrated circuit design, semiconductor devices, and biomedical sensing.
+
+## 🛠️ Tools & Skills
+
+Cadence Virtuoso/Spectre · STM32WL · LoRa · Digital VLSI · Custom IC Design · Energy Harvesting · Biosensor ICs
+
+## 📫 How to Reach Me
+
+Email: [tr.h.yenwendy@gmail.com](mailto:tr.h.yenwendy@gmail.com)
+
 
 <!--
 **HoangYenTran01/HoangYenTran01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
