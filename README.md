@@ -11,6 +11,7 @@ I am currently building a foundation in **digital VLSI** and **custom IC design*
 
   Implemented and simulated 6T SRAM/BCAM/TCAM-style memory circuits that support SRAM, BCAM/TCAM-style search, and logic-in-memory operations using Cadence Virtuoso/Spectre.
 * [Frogger Game](https://github.com/HoangYenTran01/Frogger-Arcade-Game-FPGA)
+  
   Programmed the core game logic for **Frogger**, including player movement, reward mechanisms, and overall gameplay flow.
 ## 🔬 Previous Work
 * Programmed an STM32WL microcontroller for **LoRa-based** wireless transmission of bioreactor data
